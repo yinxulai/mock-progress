@@ -2,7 +2,8 @@
   "name": "mock-progress",
   "version": "1.0.0",
   "description": "Mock a progress bar using an exponential progress function",
-  "main": "index.js",
+  "main": "output/index.js",
+  "types": "output/index.d.ts",
   "scripts": {
     "build": "tsc",
     "dev": "tsc -w"
